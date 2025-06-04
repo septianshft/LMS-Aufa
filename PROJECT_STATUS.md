@@ -64,8 +64,8 @@
 
 ### **Simple Setup (Recommended)**
 ```bash
-git clone https://github.com/YOUR_USERNAME/academy-lms.git
-cd academy-lms
+git clone https://github.com/septianshft/LMS-Aufa.git
+cd LMS-Aufa
 composer install
 cp .env.example .env
 # Edit .env with database settings

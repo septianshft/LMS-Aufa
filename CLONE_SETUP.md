@@ -12,8 +12,8 @@ This guide will help you clone and set up the Academy LMS project for developmen
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/septianshft/Clone-Aufa-FIX.git
-cd Clone-Aufa-FIX
+git clone https://github.com/septianshft/LMS-Aufa.git
+cd LMS-Aufa
 ```
 
 ### Step 2: Install Dependencies

@@ -41,8 +41,8 @@ The fastest way to get started is using our development installer:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/academy-lms.git
-cd academy-lms
+git clone https://github.com/septianshft/LMS-Aufa.git
+cd LMS-Aufa
 
 # Install dependencies
 composer install
@@ -158,8 +158,8 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 ## 📞 Support
 
 - **Documentation**: [CLONE_SETUP.md](CLONE_SETUP.md)
-- **Issues**: [GitHub Issues](https://github.com/your-username/academy-lms/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/academy-lms/discussions)
+- **Issues**: [GitHub Issues](https://github.com/septianshft/LMS-Aufa/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/septianshft/LMS-Aufa/discussions)
 
 ## 📄 License
 
